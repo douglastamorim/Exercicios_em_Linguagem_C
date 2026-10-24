@@ -27,7 +27,7 @@ Os exercícios estão organizados de forma sequencial ou por tópicos para facil
 
 | Nº | Exercício |
 | :--- | :--- | :--- |
-| 00 | Terreno |
+| 00 | Estrutura de dados lista | Trabalho faculdade |
 | 01 | Terreno |
 | 02 | Retangulo |
 | 03 | Idades |
