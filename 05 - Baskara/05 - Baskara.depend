@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1792715529 source:c:\users\douglas\desktop\aplicações\ws - code blocks\porjetos curso udemy\05 - baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
