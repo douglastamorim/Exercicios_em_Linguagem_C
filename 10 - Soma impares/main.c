@@ -7,7 +7,6 @@ int main()
 
     soma = 0;
 
-
     printf("Digite dois numeros:\n");
     scanf("%d", &x);
     scanf("%d", &y);
@@ -25,5 +24,6 @@ int main()
     }
 
     printf("Soma dos impares = %d\n", soma);
+   
     return 0;
 }
