@@ -21,7 +21,6 @@ int main()
         scanf("%d", &x);
         scanf("%d", &y);
 
-
     }
     return 0;
 }
