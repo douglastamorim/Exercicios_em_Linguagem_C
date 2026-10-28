@@ -13,9 +13,5 @@ int main()
         printf("%d x %d = %d\n",N, i, resultado);
     }
 
-
-
-
-
     return 0;
 }
