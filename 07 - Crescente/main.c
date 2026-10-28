@@ -22,5 +22,6 @@ int main()
         scanf("%d", &y);
 
     }
+    
     return 0;
 }
