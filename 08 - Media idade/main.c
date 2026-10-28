@@ -17,7 +17,6 @@ int main()
         soma = soma + idade;
         contador = contador + 1;
 
-
         scanf("%d", &idade);
 
     }
