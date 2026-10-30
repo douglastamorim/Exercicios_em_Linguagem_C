@@ -26,15 +26,15 @@ Aqui estão reunidos códigos, projetos e exercícios desenvolvidos utilizando a
 Os exercícios estão organizados de forma sequencial ou por tópicos para facilitar o acompanhamento da evolução dos estudos.
 
 | Nº | Exercício |
-| :--- | :--- | :--- |
-| 00 | Estrutura de dados lista | Trabalho faculdade |
+|---:|-----------|
+| 00 | Estrutura de dados lista |
 | 01 | Terreno |
 | 02 | Retangulo |
 | 03 | Idades |
-| 04 | Notas | Estruturas Condicional |
-| 05 | Baskara | 
-| 06 | Menor de Três | Estruturas Condicional |
-| ... | Demais exercícios | Em constante atualização... |
+| 04 | Notas |
+| 05 | Baskara |
+| 06 | Menor de Três |
+| ... | Demais exercícios |
 
 ## 🎯 Objetivo
 Aprofundar os conhecimentos em programação estruturada, entender o funcionamento da memória do computador através do uso de ponteiros e criar uma base sólida para disciplinas futuras de Estrutura de Dados.
