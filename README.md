@@ -34,6 +34,13 @@ Os exercícios estão organizados de forma sequencial ou por tópicos para facil
 | 04 | Notas |
 | 05 | Baskara |
 | 06 | Menor de Três |
+| 07 | Crescente |
+| 08 | Media idade |
+| 09 | Tabuada |
+| 10 | Soma impares |
+| 11 | Negativos |
+| 12 | Soma Vetor |
+| 13 | Alturas |
 | ... | Demais exercícios |
 
 ## 🎯 Objetivo
